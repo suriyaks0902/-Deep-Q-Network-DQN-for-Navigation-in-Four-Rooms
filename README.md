@@ -1,13 +1,13 @@
 # Deep Q-Network (DQN) for Navigation in Four Rooms
 
 ### Four Room Environment
-![Four Rooms Environment](four_rooms.gif)
+![Four Rooms Environment](https://github.com/user-attachments/assets/b63ce5b6-9b1b-4c3a-b15d-ae4cd091e93f)
 
 ### Loss Plot
-![Loss Plot](loss_plot.png)
+![Loss Plot](https://github.com/user-attachments/assets/c82325ee-d483-4b15-a1a3-d8e2ec34cffe)
 
 ### Returns Plot
-![Returns Plot](returns_plot.png)
+![Returns Plot](https://github.com/user-attachments/assets/81f9c218-792a-4696-9b94-2ef8d2ecd302)
 
 
 ## Project Overview
